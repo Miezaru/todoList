@@ -135,9 +135,3 @@ document.querySelector('#removeAction').addEventListener('click', () => {
 
   upgradeView();
 });
-
-var asdasda = 20;
-function setto() {
-  console.log('cream');
-}
-let a = 33;
